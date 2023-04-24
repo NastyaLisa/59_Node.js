@@ -1,1 +1,8 @@
 # 59_Node.js
+1. TCP, HTTP, HTTPS
+2. REST, REST API (POST, GET, PUT, DELETE, PUTCH)
+3. MVC
+4. Express.js
+5. PUG
+6. SSR
+7. Swagger
